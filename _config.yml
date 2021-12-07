@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Aprende hojas de cálculo'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
