@@ -1,7 +1,7 @@
 ---
-title: About
+title: Nosotros
 layout: page
-description: About
+description: Nosotros
 bodyClass: page-about
 ---
 
