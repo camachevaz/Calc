@@ -2,8 +2,8 @@ main:
   - name: "Cursos"
     url: "/cursos/"
     weight: 2
-  - name: "Instructor"
-    url: "/instructor/"
+  - name: "Instructores"
+    url: "/instructores/"
     weight: 3
   - name: "Contacto"
     url: "/contacto/"
@@ -13,8 +13,8 @@ footer:
   - name: "Inicio"
     url: "/"
     weight: 1
-  - name: "Instructor"
-    url: "/instructor/"
+  - name: "Instructores"
+    url: "/instructores/"
     weight: 2
   - name: "Contacto"
     url: "/contacto/"
