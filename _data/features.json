@@ -3,7 +3,7 @@
     "title": "Excel de Microsoft Office",
     "description": "Para trabajo local o multidispositivo si tienes una cuenta Microsoft 365.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/excel.svg",
       "width": 80,
       "height": 80
     }
@@ -12,7 +12,7 @@
     "title": "Hojas de cálculo de Google",
     "description": "Trabaja desde cualquier parte y colabora fácilmente con herramientas nativas en la nube.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/sheets.svg",
       "width": 80,
       "height": 80
     }
@@ -21,7 +21,7 @@
     "title": "En línea, híbrido, o presencial",
     "description": "Clases que se adaptan a las necesidades de cada grupo.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/aprendizaje.svg",
       "width": 80,
       "height": 80
     }
