@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Instructor
 layout: teams
-description: Team
+description: Instructor
 permalink: "/instructor/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Tu instructor
 
 Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
