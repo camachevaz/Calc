@@ -6,7 +6,7 @@ permalink: "/cursos/excel-basico/"
 weight: 1
 ---
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Portada de Excel básico](/images/cursos/excel-basico.gif)
 
 # Objetivo
 

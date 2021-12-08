@@ -6,6 +6,8 @@ weight: 8
 layout: service
 ---
 
+![Portada de Hojas de cálculo para docentes](/images/cursos/docentes.gif)
+
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva

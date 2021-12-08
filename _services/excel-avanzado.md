@@ -5,6 +5,8 @@ featured: true
 weight: 3
 ---
 
+![Portada de Excel avanzado](/images/cursos/excel-avanzado.gif)
+
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato

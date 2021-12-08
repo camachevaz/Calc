@@ -6,6 +6,8 @@ weight: 7
 layout: service
 ---
 
+![Portada de Excel de cero a guerrero](/images/cursos/cero-guerrero.gif)
+
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva

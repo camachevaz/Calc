@@ -5,6 +5,8 @@ featured: true
 weight: 2
 ---
 
+![Portada de Excel intermedio](/images/cursos/excel-intermedio.gif)
+
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
