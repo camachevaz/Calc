@@ -32,7 +32,10 @@ bodyClass: "page-home"
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncatewords: 50 }}</p>
+            {% comment %}
+            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            {% endcomment %}
+            <p>{{ service.pitch | markdownify | strip_html }}</p>
           </div>
         </div>
       </div>
