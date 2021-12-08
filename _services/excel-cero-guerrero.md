@@ -8,41 +8,77 @@ layout: service
 
 ![Portada de Excel de cero a guerrero](/images/cursos/cero-guerrero.gif)
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
-
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
-
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
-
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
-
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+1. Libros de trabajo
+    1. Crear un libro de trabajo nuevo
+    1. Crear un libro de trabajo desde una plantilla
+    1. Guardar el libro de trabajo
+1. Hojas de trabajo
+    1. Personalizar
+        1. Renombrar
+        1. Modificar color
+    1. Insertar una hoja de trabajo nueva
+    1. Eliminar una hoja de trabajo
+1. Columnas y renglones
+    1. Insertar o eliminar
+1. Celdas	
+    1. Contenido
+        1. Ingresar datos
+            1. Ingreso manual
+            1. Datos externos
+        1. Mover contenido arrastrando y soltando
+        1. Mover contenido copiando y pegando
+        1. Pegado especial
+        1. Unir y separar celdas
+    1. Estilo
+        1. Bordes	
+        1. Color de fondo
+        1. Estilo de texto
+    1. Formato condicional
+    1. Autosuma
+    1. Formato de número
+    1. Búsqueda y reemplazo
+    1. Mostrar u ocultar valores cero
+    1. Añadir marca de agua
+1. Fórmulas básicas
+    1. Estructura de una fórmula
+        1. Partes de la fórmula
+        1. Usar constantes
+        1. Referencias
+    1. Operaciones matemáticas
+        1. Operadores aritméticos
+        1. Operadores de comparación
+        1. Operadores de concatenación
+        1. Operadores de referencia
+    1. Replicar fórmula
+    1. Rangos
+    1. Edición de fórmula
+1. Análisis de datos
+    1. Filtrado
+    1. Ordenado
+    1. Freeze/Unfreeze
+    1. Ocultar y mostrar columnas y renglones
+    1. Buscar valores únicos o remover duplicados
+    1. Texto a columnas
+    1. Gráficas
+        1. Tipos de gráficas
+        1. Personalización
+        1. Edición
+    1. Tablas dinámicas
+    1. Gráfico dinámico
+1. Fórmulas intermedias
+    1. CONCATENAR
+    1. BUSCARV
+    1. SUMAR
+    1. CONTARSI
+    1. SI
+    1. SUMARSI
+    1. Operaciones con fechas
+1. Colaboración
+    1. Comentarios
+    1. Protección de archivos
+1. Manejo de archivos
+    1. Importar y exportar a formatos TXT y CSV
+    1. Exportar a PDF
+    1. Impresión
+        1. Previsualización
+        1. Ajuste de página
