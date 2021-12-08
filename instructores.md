@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Tu instructor
+# Tus instructores
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Conoce al equipo de profesionales que te ayudarán generando situaciones de aprendizaje prácticas y significativas.
