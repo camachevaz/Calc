@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/carlos-manuel-chee-v%C3%A1zquez-130bba183/"
 permalink: "/instructores/carlos-chee"
 promoted: true
 weight: 1
