@@ -2,7 +2,7 @@
 title: "Excel básico"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-permalink: "/cursos-excel-basico/"
+permalink: "/cursos/excel-basico/"
 weight: 1
 ---
 
