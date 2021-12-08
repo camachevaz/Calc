@@ -8,6 +8,10 @@ layout: service
 
 ![Portada de Excel de cero a guerrero](/images/cursos/cero-guerrero.gif)
 
+# Objetivo
+
+# Temario
+
 1. Libros de trabajo
     1. Crear un libro de trabajo nuevo
     1. Crear un libro de trabajo desde una plantilla
