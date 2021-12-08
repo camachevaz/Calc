@@ -25,20 +25,22 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign weighted_services = site.services | sort: "weight" %}
-      {% for service in weighted_services | service.featured == true %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            </h2>
-            {% comment %}
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
-            {% endcomment %}
-            <p>{{ service.pitch | markdownify | strip_html }}</p>
+      {% for service in weighted_services %}
+        {% if service.featured == true %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+              <div class="service-content">
+                <h2 class="service-title">
+                  <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+                </h2>
+                {% comment %}
+                <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+                {% endcomment %}
+                <p>{{ service.pitch | markdownify | strip_html }}</p>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
+        {% endif %}
       {% endfor %}
     </div>
     <div class="row justify-content-center">
