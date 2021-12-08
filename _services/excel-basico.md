@@ -8,6 +8,10 @@ weight: 1
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
+# Objetivo
+
+Introducir al asistente al uso de las herramientas para procesamiento datos tabulares y dominar aspectos básicos del programa Excel para trabajar de forma eficaz y eficiente documentos afines en el ambiente laboral.
+
 # Temario 
 
 1. Excel y el espacio de trabajo
