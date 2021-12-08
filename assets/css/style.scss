@@ -76,3 +76,11 @@ font-size: .75rem;}
 .footer-title a{ color:#ffffff !important;
 text-decoration: underline;}
 .footer-title a:hover{ color: #ffffff !important;}
+
+.service ol { counter-reset: tema;
+padding-left: 32px;}
+.service ol li { counter-increment: tema;}
+.service ol li:before { content: counters(tema, '.') ' ';
+color: hotpink;
+font-weight: bold;
+font-family: cursive;}
