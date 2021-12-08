@@ -5,17 +5,17 @@ main:
   - name: "Instructor"
     url: "/instructor/"
     weight: 3
-  - name: "Nosotros"
-    url: "/nosotros/"
-    weight: 4
   - name: "Contacto"
     url: "/contacto/"
-    weight: 5
+    weight: 4
 
 footer:
   - name: "Inicio"
     url: "/"
     weight: 1
+  - name: "Instructor"
+    url: "/instructor/"
+    weight: 2
   - name: "Contacto"
     url: "/contacto/"
-    weight: 2
+    weight: 3
