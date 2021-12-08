@@ -25,7 +25,7 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign weighted_services = site.services | sort: "weight" %}
-      {% for service in weighted_services | serive.featured == true %}
+      {% for service in weighted_services | service.featured == true %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
