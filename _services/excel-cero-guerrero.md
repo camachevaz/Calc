@@ -2,6 +2,8 @@
 title: "Excel de cero a guerrero"
 date: 2018-11-18T12:33:46+10:00
 featured: true
+permalink: "/cursos/excel-cero-guerrero/"
+pitch: Sumérgete en un curso intensivo para perderle el miedo a Excel y convertirlo en tu mejor aliado
 weight: 7
 layout: service
 ---
