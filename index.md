@@ -4,7 +4,7 @@ layout: home
 description: Domina el poder de las hojas de cálculo. Aprende de manera progrevisa a sacar mayor provecho y conviértelas en tus mejores aliadas.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
