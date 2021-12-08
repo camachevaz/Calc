@@ -7,8 +7,6 @@ pitch: ¿Te sientes perdido cuando abres Excel? ¡Este curso es para ti!
 weight: 1
 ---
 
-¿Te sientes perdido cuando abres Excel? ¡Este curso es para ti!
-
 Familiarízate con Excel, desplázate con facilidad en el contenido de cualquier hoja de cálculo y obtén tus primeras nociones para utilizarlo a tu favor.
 
 ![Portada de Excel básico](/images/cursos/excel-basico.gif)
