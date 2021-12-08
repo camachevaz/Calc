@@ -1,7 +1,7 @@
 ---
 title: "Excel básico"
 date: 2018-11-18T12:33:46+10:00
-featured: true
+featured: false
 permalink: "/cursos/excel-basico/"
 pitch: ¿Te sientes perdido cuando abres Excel? ¡Este curso es para ti!
 weight: 1
