@@ -78,7 +78,8 @@ text-decoration: underline;}
 .footer-title a:hover{ color: #ffffff !important;}
 
 .service ol { counter-reset: tema;
-padding-left: 32px;}
+padding-left: 32px;
+list-style-type: none;}
 .service ol li { counter-increment: tema;}
 .service ol li:before { content: counters(tema, '.') ' ';
 color: hotpink;
