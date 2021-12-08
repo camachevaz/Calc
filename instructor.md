@@ -3,7 +3,6 @@ title: Team
 layout: teams
 description: Team
 permalink: "/instructor/"
-intro_image: "images/illustrations/instructor.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
