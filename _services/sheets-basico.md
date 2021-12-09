@@ -26,8 +26,8 @@ Que los asistentes adopten la plataforma de Documentos de Google para facilitar 
 - Análisis de datos mediante filtros y formato condicional
 - Aplicar funciones básicas matemáticas, de texto, y predeterminadas
 
-<a href="#" class="cta presupuesto">Solicitar presupuesto <img src="/images/illustrations/monedas.svg" width="36" /></a>
-<a href="#" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="36" /></a>
+<a href="#" class="cta presupuesto">Solicitar presupuesto <img src="/images/illustrations/monedas.svg" width="24" /></a>
+<a href="#" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="24" /></a>
 
 <!--
 # Temario
