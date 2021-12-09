@@ -11,7 +11,7 @@ bodyClass: "page-service"
         <div class="content">
           <p>{{ page.pitch }}</p>
           {{content}}
-          <a href="mailto:calculo@asesoreducativo.mx" class="cta cotizacion">Solicitar cotización <img src="/images/illustrations/monedas.svg" width="24" /></a>
+          <a href="mailto:{{ .site.data.contact.email }}" class="cta cotizacion">Solicitar cotización <img src="/images/illustrations/monedas.svg" width="24" /></a>
           <a href="mailto:calculo@asesoreducativo.mx&subject=Solicitud+de+temario+{{ page.title | url_encode }}" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="24" /></a>
         </div>
       </div>
