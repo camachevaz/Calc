@@ -83,13 +83,12 @@ list-style-type: none;}
 .service ol li { counter-increment: tema;}
 .service ol li:before { content: counters(tema, '.') ' ';}
 
-.cta{border:solid 1px #555555;
-border-radius:.5rem;
+.cta{border-radius:.5rem;
 padding:.5rem;
 margin-right:.5rem;}
-.cta a, .cta a:hover{text-decoration:none;
-font-weight:bold;
-color:#ffffff;}
+.cta a, .cta a:hover{text-decoration:none;}
+.cta *{font-weight:bold !important;
+color:#ffffff !important;}
 
 .cta.temario{background-color: #0a972d;}
 .cta.cotizacion{background-color: #151a99;}
