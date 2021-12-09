@@ -82,3 +82,9 @@ padding-left: 32px;
 list-style-type: none;}
 .service ol li { counter-increment: tema;}
 .service ol li:before { content: counters(tema, '.') ' ';}
+
+.cta{border:solid 1px #555555;
+border-radius:.5rem;
+padding:1rem;
+display:inline-block;
+margin-right:.5rem;}
