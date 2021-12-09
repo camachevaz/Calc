@@ -15,6 +15,18 @@ Descubre la facilida de colaboración que te permiten los documentos en la nube,
 
 Que los asistentes adopten la plataforma de Documentos de Google para facilitar la colaboración y compartir información.
 
+# Habilidades al egresar
+
+- Acceder a Google Drive desde cualquier dispositivo
+- Administrar su contenido de acuerdo a las necesidades particulares
+- Administrar la privacidad de su contenido
+- Trabajar con documentos importados, nativos, y convertirlos
+- Dominar la estructura de una hoja de cálculo
+- Ingresar contenido manualmente o de fuentes externas y darle formato
+- Análisis de datos mediante filtros y formato condicional
+- Aplicar funciones básicas matemáticas, de texto, y predeterminadas
+
+{% comment %}
 # Temario
 
 1. Google Drive
@@ -52,3 +64,4 @@ Que los asistentes adopten la plataforma de Documentos de Google para facilitar 
     1. Formato condicional
     1. Privacidad y opciones para compartir
     1. Conversión de documento
+    {% comment %}
