@@ -11,8 +11,8 @@ bodyClass: "page-service"
         <div class="content">
           <p>{{ page.pitch }}</p>
           {{content}}
-          <a href="mailto:{{ .site.data.contact.email }}" class="cta cotizacion">Solicitar cotización <img src="/images/illustrations/monedas.svg" width="24" /></a>
-          <a href="mailto:{{ .site.data.contact.email }}" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="24" /></a>
+          <a href="mailto:{{ .site.data.contact.email }}&subject=Cotización&body=Hola" class="cta cotizacion">Solicitar cotización <img src="/images/illustrations/monedas.svg" width="24" /></a>
+          <a href="mailto:{{ .site.data.contact.email }}&subject=Temario&body=Hola" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="24" /></a>
         </div>
       </div>
     </div>
