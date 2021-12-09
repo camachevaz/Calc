@@ -26,7 +26,7 @@ Que los asistentes adopten la plataforma de Documentos de Google para facilitar 
 - Análisis de datos mediante filtros y formato condicional
 - Aplicar funciones básicas matemáticas, de texto, y predeterminadas
 
-{% comment %}
+<!--
 # Temario
 
 1. Google Drive
@@ -64,4 +64,4 @@ Que los asistentes adopten la plataforma de Documentos de Google para facilitar 
     1. Formato condicional
     1. Privacidad y opciones para compartir
     1. Conversión de documento
-    {% comment %}
+-->
