@@ -83,10 +83,10 @@ list-style-type: none;}
 .service ol li { counter-increment: tema;}
 .service ol li:before { content: counters(tema, '.') ' ';}
 
-.cta{border-radius:.5rem;
+.cta, .cta:hover{border-radius:.5rem;
 padding:.5rem;
-margin-right:.5rem;}
-.cta a, .cta a:hover{text-decoration:none;
+margin-right:.5rem;
+text-decoration:none;
 font-weight:bold !important;
 color:#ffffff !important;}
 
