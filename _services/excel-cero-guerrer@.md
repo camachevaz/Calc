@@ -5,7 +5,6 @@ featured: true
 permalink: "/cursos/excel-cero-guerrer@/"
 pitch: Sumérgete en un curso intensivo para perderle el miedo a Excel y convertirle en tu mejor aliado
 weight: 7
-layout: service
 ---
 
 ![Portada de Excel de cero a guerrer@](/images/cursos/cero-guerrero.gif)
