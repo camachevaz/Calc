@@ -5,7 +5,6 @@ featured: true
 permalink: "/cursos/hojas-calculo-docentes/"
 pitch: Ahorra horas de trabajo. Genera listados rápidamente, automatiza registros de asistencia, y califica de forma instantánea
 weight: 8
-layout: service
 ---
 
 ![Portada de Hojas de cálculo para docentes](/images/cursos/docentes.gif)
