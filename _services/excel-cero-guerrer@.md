@@ -8,10 +8,26 @@ weight: 7
 publicado: true
 ---
 
+Convierte a Excel en tu mejor aliado. Empiezando desde cero conocerás las principales herramientas para facilitar tu trabajo y ahorrar tiempo.
+
 ![Portada de Excel de cero a guerrer@](/images/cursos/cero-guerrero.gif)
 
 # Objetivo
 
+Dominar aspectos claves de Excel para mejorar la productivdad y desenvolverse con confianza en el entorno de la aplicación.
+
+# Habilidades al egresar
+
+- Crear, editar, y administrar libros de trabajo y sus hojas
+- Ingresar, importar, y formatear contenido. Buscar y reemplazar
+- Analizar información con filtros, y formato condicional
+- Crear funciones matemáticas, con cadenas de texto, y funciones predeterminadas básicas
+- Creación de gráficos para el análisis de la información
+- Analizar datos mediante la creación de tablas y tablas dinámicas
+- Utilizar funciones predeterminadas para cruzar información, contabilizar, y realizar operaciones condicionales
+- Colaborar protegiendo rangos u  hojas de datos, agregar comentarios, y exportar
+
+<!--
 # Temario
 
 1. Libros de trabajo
@@ -88,3 +104,4 @@ publicado: true
     1. Impresión
         1. Previsualización
         1. Ajuste de página
+-->
