@@ -4,29 +4,27 @@ layout: default
 bodyClass: "page-contact"
 ---
 
-<div class="intro">
-    <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-        <div class="row justify-content-start">
-            <div class="col-12 col-md-8">
-                <div class="service service-single">
-                    <h1 class="title">{{page.title}}</h1>
-                    {% comment %}
-                    {% include call.html show_button=false %}
-                    {% endcomment %}
-                    <div class="content mt-4">{{content}}</div>
-                </div>
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                {% comment %}
+                {% include call.html show_button=false %}
+                {% endcomment %}
+                <div class="content mt-4">{{content}}</div>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <a href="https://wa.me/{{ site.tel }}"><img src="/images/social/whatsapp.svg" height="64" alt="Logo whatsapp" class="svg-contacto"/></a>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <a href="http://m.me/{{ site.facebook }}"><img src="/images/social/facebook.svg" height="64" alt="Logo facebook" class="svg-contacto"/></a>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
-                <a href="mailto:{{ site.correo }}"><img src="/images/social/correo.svg" height="64" alt="Logo correo" class="svg-contacto"/></a>
-            </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <a href="https://wa.me/{{ site.tel }}"><img src="/images/social/whatsapp.svg" height="64" alt="Logo whatsapp" class="svg-contacto"/></a>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <a href="http://m.me/{{ site.facebook }}"><img src="/images/social/facebook.svg" height="64" alt="Logo facebook" class="svg-contacto"/></a>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <a href="mailto:{{ site.correo }}"><img src="/images/social/correo.svg" height="64" alt="Logo correo" class="svg-contacto"/></a>
         </div>
     </div>
 </div>
