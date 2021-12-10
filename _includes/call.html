@@ -1,7 +1,7 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.phone %}
-        <div class="call-phone"><strong>Teléfono: </strong> {{ site.tel }} </div>
+        <div class="call-phone"><strong>Teléfono: </strong>+52 ({{ site.tel | slice: 2,4 }}) {{ site.tel | slice: 5,7 }} {{ site.tel | slice: 8,11 }} </div>
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Correo: </strong>
