@@ -27,7 +27,6 @@ Dominar aspectos claves de Excel para mejorar la productivdad y desenvolverse co
 - Utilizar funciones predeterminadas para cruzar información, contabilizar, y realizar operaciones condicionales
 - Colaborar protegiendo rangos u  hojas de datos, agregar comentarios, y exportar
 
-<!--
 # Temario
 
 1. Libros de trabajo
@@ -104,4 +103,3 @@ Dominar aspectos claves de Excel para mejorar la productivdad y desenvolverse co
     1. Impresión
         1. Previsualización
         1. Ajuste de página
--->

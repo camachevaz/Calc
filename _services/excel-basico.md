@@ -16,6 +16,14 @@ Familiarízate con Excel, desplázate con facilidad en el contenido de cualquier
 
 Introducir al asistente al uso de las herramientas para procesamiento datos tabulares y dominar aspectos básicos del programa Excel para trabajar de forma eficaz y eficiente documentos afines en el ambiente laboral.
 
+# Habilidades al egresar
+
+- Administrar libros de trabajo y sus hojas
+- Ingresar, importar, y formatear contenido. Buscar y reemplazar
+- Analizar información con filtros
+- Utilizar las funciones predeterminadas para concatenar, determinar longitudes de datos, eliminar espacios, trabajar solo con porciones de un dato, sumatorias, y promedios
+- Compartir los datos y su análisis
+
 # Temario 
 
 1. Excel y el espacio de trabajo
