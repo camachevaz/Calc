@@ -5,6 +5,7 @@ featured: false
 permalink: "/cursos/excel-avanzado/"
 pitch: Combina funciones y trabaja con múltiples orígenes de datos. Soluciona problemas de análisis e innova previendo oportunidades de mejora
 weight: 3
+publicado: false
 ---
 
 ![Portada de Excel avanzado](/images/cursos/excel-avanzado.gif)

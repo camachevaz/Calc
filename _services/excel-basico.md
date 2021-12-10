@@ -5,6 +5,7 @@ featured: false
 permalink: "/cursos/excel-basico/"
 pitch: ¿Te sientes perdido cuando abres Excel? ¡Este curso es para ti!
 weight: 1
+publicado: true
 ---
 
 Familiarízate con Excel, desplázate con facilidad en el contenido de cualquier hoja de cálculo y obtén tus primeras nociones para utilizarlo a tu favor.

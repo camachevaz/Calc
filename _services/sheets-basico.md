@@ -5,6 +5,7 @@ featured: true
 permalink: "/cursos/sheets-basico/"
 pitch: Conoce cómo los documentos en la nube facilitan el acceso a la información y fortalecen su seguridad, a la vez que aprendes cómo analizar datos desde cualquier lugar y dispositivo
 weight: 4
+publicado: true
 ---
 
 Descubre la facilida de colaboración que te permiten los documentos en la nube, y la fortaleza de su seguridad cuando quieres compartirlos.

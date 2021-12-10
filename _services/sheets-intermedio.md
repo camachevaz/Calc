@@ -5,6 +5,7 @@ featured: false
 permalink: "/cursos/sheets-intermedio/"
 pitch: Profundiza en el uso de funciones y aprovecha el potencial de las hojs de cálculo potenciadas por funciones web
 weight: 5
+publicado: false
 ---
 
 ![Portada de Hojas de cálculo de Google Intermedio](/images/cursos/sheets-intermedio.gif)
