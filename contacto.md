@@ -4,4 +4,4 @@ layout: contact
 description: Contacto
 ---
 
-Queremos escucharte y colaborar contigo.
+<p class="lead-contacto">Queremos escucharte y colaborar contigo.</p>
