@@ -12,7 +12,9 @@ bodyClass: "page-service"
           <p>{{ page.pitch }}</p>
           {{content}}
           <a href="mailto:{{ .site.data.contact.email }}&subject=Solicitud%20de%20Cotización%20{{ page.title | url_escape }}" class="cta cotizacion">Solicitar cotización <img src="/images/illustrations/monedas.svg" width="24" /></a>
+          {% comment %}
           <a href="mailto:{{ .site.data.contact.email }}&subject=Solicitud%20de%20Temario%20{{ page.title | url_escape }}" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="24" /></a>
+          {% endcomment %}
         </div>
       </div>
     </div>
