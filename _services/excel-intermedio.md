@@ -14,11 +14,20 @@ publicado: true
 
 # Objetivo
 
-
+Consolidar las habilidades de los asistentes en el análisis, filtrado, e interpretación de datos. Eficientizar procesos de análisis para optimizar el desempeño laboral.
 
 # Habilidades al egresar
 
-- 
+- Limpiar valores múltiples en conjuntos de datos
+- Centralizar datos desde varios orígenes
+- Convertir conjuntos de datos en tablas
+- Filtrar, ordenar, totalizar, y esquematizar tablas
+- Convertir texto importado para facilitar su análisis
+- Generar gráficos
+- Aplicar las funciones CONCATENAR, BUSCARV, SUMAR, CONTAR, SI, SUMARSI, CONTARSI, y operaciones con fechas
+- Colaborar
+- Salida de archivos
+
 
 # Temario
 
