@@ -8,7 +8,7 @@ weight: 2
 publicado: true
 ---
 
-
+Adéntrate en las funciones y aprende a utilizarlas para analizar tus datos con mayor facilidad. Organiza información de múltiples fuentes, y genera gráficos que simplifican su comprensión.
 
 ![Portada de Excel intermedio](/images/cursos/excel-intermedio.gif)
 
