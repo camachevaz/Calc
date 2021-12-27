@@ -9,4 +9,8 @@ intro_image_hide_on_mobile: true
 
 # Material de referencia y práctica
 
-- [Históricos mensuales de ventas separados por hojas](#)
+- [Ejercicios Excel intermedio](/assets/Ejercicios-intermedio.xlsx/). 
+- [Formato condicional](/assets/Formato-condicional.xlsx/). 
+- [Lista con detalles](/assets/Lista-detalles.xlsx/). 
+- [Tabla de posiciones](/assets/Tabla-posiciones.xlsx/). 
+- [Validación de datos](/assets/Validacion.xlsx/). 
