@@ -1,6 +1,6 @@
 ---
 title: Descargas
-layout: default
+layout: service
 description: Descargas
 intro_image: "images/illustrations/descargas.svg"
 intro_image_absolute: true
