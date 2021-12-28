@@ -5,17 +5,26 @@ main:
   - name: "Instructores"
     url: "/instructores/"
     weight: 3
+  - name: "Descargas"
+    url: "/descargas/"
+    weight: 4
   - name: "Contacto"
     url: "/contacto/"
-    weight: 4
+    weight: 5
 
 footer:
   - name: "Inicio"
     url: "/"
     weight: 1
+  - name: "Cursos"
+    url: "/cursos/"
+    weight: 2
   - name: "Instructores"
     url: "/instructores/"
-    weight: 2
+    weight: 3
+  - name: "Descargas"
+    url: "/descargas/"
+    weight: 4
   - name: "Contacto"
     url: "/contacto/"
-    weight: 3
+    weight: 5
