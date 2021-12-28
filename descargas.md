@@ -16,4 +16,4 @@ intro_image_hide_on_mobile: true
 - [Validación de datos](/assets/docs/Validacion.xlsx/). 
 - [Movimientos de caja mensuales](/assets/docs/Movimientos-caja-mensuales.xlsx/). 
 - [Archivo separado por comas](/assets/docs/Separados-comas.xlsx/). 
-- [Archivo de texto delimitado](/assets/docs/Delimitado.xlsx/). 
+- [Archivo de texto delimitado](/assets/docs/Delimitado.txt/). 
