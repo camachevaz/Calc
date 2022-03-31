@@ -1,7 +1,7 @@
 ---
 title: "Hojas de cálculo para docentes"
 date: 2018-11-18T12:33:46+10:00
-featured: true
+featured: false
 permalink: "/cursos/hojas-calculo-docentes/"
 pitch: Ahorra horas de trabajo. Genera listados rápidamente, automatiza registros de asistencia, y califica de forma instantánea
 weight: 8
