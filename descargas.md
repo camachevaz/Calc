@@ -15,5 +15,6 @@ intro_image_hide_on_mobile: true
 - [Tabla de posiciones](/assets/docs/Tabla-posiciones.xlsx/). 
 - [Validación de datos](/assets/docs/Validacion.xlsx/). 
 - [Movimientos de caja mensuales](/assets/docs/Movimientos-caja-mensuales.xlsx/). 
+- [Funciones con fechas](/assets/docs/Fechas.xlsx/). 
 - [Archivo separado por comas](/assets/docs/Separado-comas.csv/). 
 - [Archivo de texto delimitado por comas (clic derecho, descargar)](/assets/docs/Delimitado.txt/). 
