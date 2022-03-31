@@ -33,7 +33,7 @@ bodyClass: "page-home"
           </div>
       {% assign weighted_services = site.services | sort: "weight" %}
       {% for service in weighted_services %}
-        {% if service.featured == true %}
+        {% if service.featured == true | where "publicado" %}
           <div class="col-12 col-md-4 mb-1">
             <div class="service service-summary">
               <div class="service-content">
