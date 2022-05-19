@@ -8,7 +8,7 @@ weight: 7
 publicado: true
 ---
 
-Convierte a Excel en tu mejor aliado. Empiezando desde cero conocerás las principales herramientas para facilitar tu trabajo y ahorrar tiempo.
+Convierte a Excel en tu mejor aliado. Empezando desde cero conocerás las principales herramientas para facilitar tu trabajo y ahorrar tiempo.
 
 ![Portada de Excel de cero a guerrer@](/images/cursos/cero-guerrero.gif)
 
