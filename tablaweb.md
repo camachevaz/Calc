@@ -16,11 +16,11 @@ permalink: /tablaweb/
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky">ID</th>
+    <th class="tg-0pky">Nombre</th>
+    <th class="tg-0pky">Descripción</th>
+    <th class="tg-0pky">Precio</th>
+    <th class="tg-0pky">Proveedor</th>
   </tr>
 </thead>
 <tbody>
