@@ -18,3 +18,4 @@ intro_image_hide_on_mobile: true
 - [Funciones con fechas](/assets/docs/Fechas.xlsx/). 
 - [Archivo separado por comas](/assets/docs/Separado-comas.csv/). 
 - [Archivo de texto delimitado por comas (clic derecho, descargar)](/assets/docs/Delimitado.txt/). 
+- [Tabla web](/tablaweb/)
