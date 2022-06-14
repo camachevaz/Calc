@@ -13,7 +13,7 @@ permalink: /tablaweb/
   font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;color:#ffffff;background:#000000;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 tbody:nth-child(n+2){
-    background:#eeeeee;
+    background:#dddddd;
 }
 </style>
 <table class="tg">
