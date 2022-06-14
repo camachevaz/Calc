@@ -12,8 +12,8 @@ permalink: /tablaweb/
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal;color:#ffffff;background:#000000;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-tbody:nth-child(n+2){
-    background:#dddddd;
+tr:nth-child(4n+1), tr:nth-child(4n+2) {
+    background: #dddddd;
 }
 </style>
 <table class="tg">
