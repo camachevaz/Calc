@@ -1,6 +1,6 @@
 ---
 title: Tabla web
-layout: default
+layout: page
 description: Ejemplo de tabla en web
 permalink: /tablaweb/
 ---
