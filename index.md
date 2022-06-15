@@ -9,6 +9,6 @@ show_call_box: true
 show_certificacion: true
 ---
 
-# Aprende Hojas de Cálculo (Office/Google)
+# Aprende Hojas de Cálculo (Office®/Google®)
 
 Domina el poder de las hojas de cálculo. Aprende de manera progrevisa a sacar mayor provecho y conviértelas en tus mejores aliadas.
