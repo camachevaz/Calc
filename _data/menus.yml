@@ -1,4 +1,7 @@
 main:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
   - name: "Cursos"
     url: "/cursos/"
     weight: 2
