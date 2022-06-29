@@ -4,7 +4,7 @@ layout: page
 description: Habilidades útiles para tu productividad que aprenderás
 permalink: /promo/
 ---
-
+### BUSCARV, REFERENCIAS, CONDICIONALES Y OPERADORES, CONCATENACIÓN, OPERACIONES MATEMÁTICAS, TABLAS DINÁMICAS... Domina todos estos conceptos y haz más en menos tiempo.
 
 ## Organiza, ordena, y filtra tu información
 
