@@ -1,6 +1,6 @@
 ---
 title: ¿Por qué aprender hojas de cálculo?
-layout: page
+layout: service
 description: Habilidades útiles para tu productividad que aprenderás
 permalink: /promo/
 ---
