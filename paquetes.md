@@ -1,6 +1,6 @@
 ---
 title: Paquetes
-layout: services
+layout: service
 description: Paquetes de capacitación
 permalink: "/paquetes/"
 intro_image_absolute: true
