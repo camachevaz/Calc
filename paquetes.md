@@ -1,6 +1,6 @@
 ---
 title: Paquetes
-layout: service
+layout: paquetes
 description: Paquetes de capacitación
 intro_image: "images/illustrations/paquetes.svg"
 permalink: "/paquetes/"
