@@ -9,3 +9,4 @@ intro_image_hide_on_mobile: true
 ---
 
 # Capacitación masiva
+Invierte con inteligencia el tiempo y recursos de tu organización. Adquiere una póliza de entrenamiento flexible y elige los temas y el momento para tomarlos.
