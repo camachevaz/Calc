@@ -1,12 +1,10 @@
 ---
-title: Instructor
+title: Paquetes
 layout: teams
-description: Instructor
-permalink: "/instructores/"
+description: Paquetes de capacitación
+permalink: "/paquetes/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Tus instructores
-
-Conoce al equipo de profesionales que te ayudarán generando situaciones de aprendizaje prácticas y significativas.
+# Capacitación masiva
