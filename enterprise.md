@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 
 Invierte con inteligencia el tiempo y recursos de tu organización. Adquiere una póliza de entrenamiento flexible y elige los temas y el momento para tomarlos.
 
-Tú decides el número de horas a reservar para su futuro uso de acuerdo a tus necesidades actuales y previsiones.
+Tú decides el número de horas a reservar, y la cantidad de personas objetivo para su futuro entrenamiento de acuerdo a tus necesidades actuales y previsiones.
 
 ## Beneficios
 
