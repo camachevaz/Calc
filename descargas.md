@@ -1,7 +1,7 @@
 ---
 title: Descargas
 layout: service
-description: Documentos y plantillas auxiliares a los entrenamientos brindados.
+description: Documentos y plantillas auxiliares a los entrenamientos brindados
 intro_image: "images/illustrations/descargas.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
