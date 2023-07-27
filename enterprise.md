@@ -1,6 +1,6 @@
 ---
 title: Enterprise
-layout: paquetes
+layout: service
 description: Modelos de capacitación empresarial diseñados para ser flexibles y escalables
 intro_image: "images/illustrations/paquetes.svg"
 permalink: "/enterprise/"
