@@ -1,7 +1,7 @@
 ---
 title: Contacto
 layout: contact
-description: Contacto
+description: Formas de contacto
 ---
 
 <p class="lead-contacto">Queremos escucharte y colaborar contigo.</p>

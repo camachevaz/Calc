@@ -1,7 +1,7 @@
 ---
 title: Cursos
 layout: services
-description: Oferta de cursos
+description: Oferta completa de entrenamientos disponibles
 intro_image: "images/illustrations/cursos.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
