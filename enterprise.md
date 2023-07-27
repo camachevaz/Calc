@@ -1,9 +1,9 @@
 ---
-title: Paquetes
+title: Enterprise
 layout: paquetes
-description: Paquetes de capacitación
+description: Paquetes enterprise
 intro_image: "images/illustrations/paquetes.svg"
-permalink: "/paquetes/"
+permalink: "/enterprise/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true    
 ---
