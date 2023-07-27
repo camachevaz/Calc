@@ -9,19 +9,10 @@ bodyClass: "page-services"
       <div class="service service-single">
         <h1 class="title">{{page.title}}</h1>
         <div class="content">
-          <p>{{ page.pitch }}</p>
           {{content}}
-          {% comment %}
-          <a href="mailto:{{ .site.data.contact.email }}&subject=Solicitud%20de%20Cotización%20{{ page.title | url_escape }}" class="cta cotizacion">Solicitar cotización <img src="/images/illustrations/monedas.svg" width="24" /></a>
-          <a href="mailto:{{ .site.data.contact.email }}&subject=Solicitud%20de%20Temario%20{{ page.title | url_escape }}" class="cta temario">Solicitar temario <img src="/images/illustrations/documento.svg" width="24" /></a>
-          {% endcomment %}          
+          <a class="button button-primary" href="{{ "cursos" | relative_url }}">Cotizar ahora</a>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="row justify-content-center">
-    <div class="col-auto">
-      <a class="button button-primary" href="{{ "cursos" | relative_url }}">Cotizar ahora</a>
     </div>
   </div>
 </div>
