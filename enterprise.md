@@ -12,12 +12,6 @@ Summary: Invierte con inteligencia el tiempo y recursos de tu organización. Adq
 Tú decides el número de horas a reservar, y la cantidad de personas objetivo para su futuro entrenamiento de acuerdo a tus necesidades actuales y previsiones.
 ---
 
-# Capacitación al siguiente nivel
-
-Invierte con inteligencia el tiempo y recursos de tu organización. Adquiere una póliza de entrenamiento flexible y elige los temas y el momento para tomarlos.
-
-Tú decides el número de horas a reservar, y la cantidad de personas objetivo para su futuro entrenamiento de acuerdo a tus necesidades actuales y previsiones.
-
 ## Vigencia anual
 
 Dispones de hasta 365 días naturales posteriores a la contratación de tu póliza para implementar las horas reservadas.
